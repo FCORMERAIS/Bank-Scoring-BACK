@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+plotly
+flask
+python-dotenv
+flask-caching
+opencensus-ext-azure
